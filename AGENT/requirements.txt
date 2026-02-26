@@ -1,0 +1,6 @@
+pydantic-ai
+jinja2
+httpx
+python-dotenv
+streamlit
+watchdog
