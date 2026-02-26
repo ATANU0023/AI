@@ -1,0 +1,59 @@
+{
+    "node_id": "root",
+    "title": "Company Annual Report 2024",
+    "summary": "Overview of financial performance and strategic goals.",
+    "level": 0,
+    "content": null,
+    "children": [
+        {
+            "node_id": "sec_1",
+            "title": "Financial Highlights",
+            "summary": "Consolidated financial statements and key metrics.",
+            "level": 1,
+            "content": null,
+            "children": [
+                {
+                    "node_id": "sec_1_p1",
+                    "title": "Revenue Growth",
+                    "summary": "Detailing 15% YoY revenue growth in cloud services.",
+                    "level": 2,
+                    "content": "Our cloud services grew by 15% reaching $2B...",
+                    "children": []
+                },
+                {
+                    "node_id": "sec_1_p2",
+                    "title": "Net Income",
+                    "summary": "Net income analysis showing dividend payouts.",
+                    "level": 2,
+                    "content": "Net income reached $500M, with $100M paid in dividends...",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node_id": "sec_2",
+            "title": "Strategic Roadmap",
+            "summary": "Future goals including AI integration and market expansion.",
+            "level": 1,
+            "content": null,
+            "children": [
+                {
+                    "node_id": "sec_2_p1",
+                    "title": "AI Strategy",
+                    "summary": "Focusing on generative AI for customer support.",
+                    "level": 2,
+                    "content": "We plan to automate 40% of support queries using GenAI...",
+                    "children": []
+                },
+                {
+                    "node_id": "sec_2_p2",
+                    "title": "European Expansion",
+                    "summary": "Entry plans for the Nordic markets in Q3.",
+                    "level": 2,
+                    "content": "Expanding into Norway and Sweden starting July...",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+streamlit
+pypdf
+python-docx
+pydantic-ai
+google-generativeai
+python-dotenv
+asyncio
